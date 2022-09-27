@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taylor</h1>
 <h3 align="center">A Freelance Full-Stack Software Engineer, I am motivated by the power of technology as a tool for positive change, with a background in psychology, bartending, and small business ownership.</h3>
 
-- 🌱 I’m currently learning **Javascript, React, Node, MongoDB, and PostgreSQL**
+- 🌱 I’m currently working with **Javascript, React, Node, MongoDB, and PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://taylorkelly.netlify.app/](https://taylorkelly.netlify.app/)
 
