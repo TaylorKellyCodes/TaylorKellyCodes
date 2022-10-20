@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working with **Javascript, React, Node, MongoDB, and PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://taylorkelly.netlify.app/](https://taylorkelly.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://taylorkelly.netlify.dev/](https://taylorkelly.dev/)
 
 - 📫 How to reach me **taylorkellycodes@gmail.com**
 
